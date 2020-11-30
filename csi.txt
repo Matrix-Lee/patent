@@ -1,0 +1,8 @@
+/html/body/search-app/search-results/search-ui/div/div/div[2]/div/div/div[1]/
+section/search-result-item[1]/article/div/div/div/div[2]/h4[1]/span[6]/a/span
+
+/html/body/search-app/search-results/search-ui/div/div/div[2]/div/div/div[1]/
+section/search-result-item[2]/article/div/div/div/div[2]/h4[1]/span[7]/a/span
+
+/html/body/search-app/search-results/search-ui/div/div/div[2]/div/div/div[1]/
+section/search-result-item[3]/article/div/div/div/div[2]/h4[1]/span[5]/a/span
